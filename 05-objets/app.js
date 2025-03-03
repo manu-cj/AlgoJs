@@ -25,6 +25,7 @@ function RandomCast(tvSerie) {
     return serie2;
 }
 
-console.log(askSerie2( RandomCast(askSerie())));
+//console.log(askSerie2( RandomCast(askSerie())));
+
 
 
