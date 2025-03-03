@@ -16,7 +16,7 @@ function RandomCast(tvSerie) {
 
 // console.log(RandomCast(askSerie()));
 
-export function askSerie2(randomCast) {
+ function askSerie2(randomCast) {
     let serie2 = {
         title: prompt('Entrez le titre de votre série'),
         production: prompt('Entrez le nom du producteur de votre série'),
@@ -26,4 +26,5 @@ export function askSerie2(randomCast) {
 }
 
 console.log(askSerie2( RandomCast(askSerie())));
+
 

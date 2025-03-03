@@ -78,6 +78,4 @@ function factorial(n) {
 
 console.log(factorial(5));
 
-import { askSerie2 } from '../05-objets/app.js';
 
-askSerie2();
